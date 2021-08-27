@@ -1,0 +1,399 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "created_at": "2021-03-01T16:13:01.378Z",
+      "image_url": "lib/assets/samples/icon_topic.svg",
+      "reward_id": null,
+      "sub_topics": [
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        },
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        },
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        }
+      ],
+      "title": "Bảng chữ cái tiếng Việt",
+      "updated_at": "2021-03-09T16:26:58.029Z"
+    },
+    {
+      "id": 2,
+      "title": "Thanh",
+      "image_url": "lib/assets/samples/icon_topic.svg",
+      "sub_topics": [
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        },
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        },
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        }
+      ],
+      "rewardIds": [
+        "reward_02"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Vần chỉ có âm chính",
+      "image_url": "lib/assets/samples/icon_topic.svg",
+      "sub_topics": [
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        },
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        },
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        }
+      ],
+      "rewardIds": [
+        "reward_03"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Chủ đề 4",
+      "image_url": "lib/assets/samples/icon_topic.svg",
+      "sub_topics": [
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        },
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        },
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        }
+      ],
+      "rewardIds": [
+        "reward_03"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Chủ đề 5",
+      "image_url": "lib/assets/samples/icon_topic.svg",
+      "sub_topics": [
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        },
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        },
+        {
+          "type": "unit",
+          "unit_id": {
+            "id": 1,
+            "created_at": "2021-03-01T16:09:38.898Z",
+            "image_url": "lib/assets/samples/unit_bang_chu_cai.svg",
+            "learning_points": [
+              {
+                "id": "6041df13cd080cf0f6ae50f8",
+                "theory_id": 1,
+                "type": "theory"
+              },
+              {
+                "id": "6041df13cd080cf0f6ae50f7",
+                "quiz_id": 20,
+                "type": "quiz"
+              }
+            ],
+            "reward_id": null,
+            "title": "Unit 2",
+            "updated_at": "2021-03-05T07:34:43.539Z"
+          }
+        }
+      ],
+      "rewardIds": [
+        "reward_03"
+      ]
+    }
+  ]
+}

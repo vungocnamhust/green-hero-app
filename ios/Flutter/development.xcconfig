@@ -1,0 +1,14 @@
+//
+//  development.xcconfig
+//  Runner
+//
+//  Created by Nguyen Minh Hieu on 23/06/2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug-development.xcconfig"
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=${FLUTTER_APPLICATION_PATH}/lib/main.heroku.dart

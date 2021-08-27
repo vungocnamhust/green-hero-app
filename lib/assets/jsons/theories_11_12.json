@@ -1,0 +1,218 @@
+{
+  "theories": [
+    {
+      "id": "theory_01",
+      "title": "Chào hỏi",
+      "layout": 1,
+      "medias": [
+        {
+          "imageUrl": "https://i.ibb.co/ZNW2WGd/hello-01-01-01.png",
+          "text": "Chào hỏi"
+        }
+      ],
+      "textWithSounds": [
+        {"text": "Chào bạn","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Chào bạn","startTime": "","endTime": ""},
+        {"text": "Tớ tên là An","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Tớ tên là An","startTime": "","endTime": ""},
+        {"text": "Còn tớ tên là Minh","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Còn tớ tên là Minh","startTime": "","endTime": ""}
+      ],
+      "tags": [],
+      "condition": {
+        "reading": 0,
+        "speaking": 0,
+        "writing": 0,
+        "listening": 0
+      }
+    },
+    {
+      "id": "theory_03",
+      "title": "Cùng hát bài hát về chào hỏi",
+      "layout": 1,
+      "medias": [
+        {
+          "imageUrl": "https://i.ibb.co/zXB5ztc/conco1-01.png",
+          "text": "Cò con chào cò mẹ"
+        },
+        {
+          "imageUrl": "https://thumbs.dreamstime.com/z/child-going-to-school-saying-goodbye-21965179.jpg",
+          "text": "Con chào mẹ"
+        }
+      ],
+      "textWithSounds": [
+        {"text": "CON CÒ BÉ BÉ","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=CON CÒ BÉ BÉ","startTime": "","endTime": ""},
+        {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+        {"text": "Con cò bé bé","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Con cò bé bé","startTime": "","endTime": ""},
+        {"text": "Nó đậu cành tre","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Nó đậu cành tre","startTime": "","endTime": ""},
+        {"text": "Đi không hỏi mẹ","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Đi không hỏi mẹ","startTime": "","endTime": ""},
+        {"text": "Biết đi đằng nào","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Biết đi đằng nào","startTime": "","endTime": ""},
+        {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+        {"text": "Khi đi em hỏi","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Khi đi em hỏi","startTime": "","endTime": ""},
+        {"text": "Khi về em chào","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Khi về em chào","startTime": "","endTime": ""},
+        {"text": "Miệng em chúm chím","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Miệng em chúm chím","startTime": "","endTime": ""},
+        {"text": "Mẹ có yêu không nào?","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Mẹ có yêu không nào","startTime": "","endTime": ""},
+        {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+        {"text": "(Lê Xuân Thọ)","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Lê Xuân Thọ","startTime": "","endTime": ""}
+      ],
+      "tags": [],
+      "condition": {
+        "reading": 0,
+        "speaking": 0,
+        "writing": 0,
+        "listening": 0
+      }
+    },
+    {
+      "id": "theory_04",
+      "title": "Đọc từng tiếng rời",
+      "layout": 2,
+      "medias": [
+        {
+          "imageUrl": "https://i.ibb.co/NSKs12s/congchab1-01.png",
+          "text": "Công cha nghĩa mẹ"
+        }
+      ],
+      "theoryFormat": "tho_luc_bat",
+      "guideWithSound": {
+        "text": "Bạn hãy đọc cùng tớ bài thơ dưới dây rõ từng tiếng theo tiếng vỗ tay nhé:",
+        "audioURL": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      "textWithSounds": [
+        {"text": "Công","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Công","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+        {"text": "cha","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=cha","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+        {"text": "như","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=như","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+        {"text": "núi","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=núi","startTime": "","endTime": "", "squares": [{"tone": "rising"}]},
+        {"text": "Thái","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Thái","startTime": "","endTime": "", "squares": [{"tone": "rising"}]},
+        {"text": "Sơn","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Sơn","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+        {"text": "\n","audioURL": "","startTime": "","endTime": "", "squares": []},
+        {"text": "Nghĩa","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Nghĩa","startTime": "","endTime": "", "squares": [{"tone": "broken"}]},
+        {"text": "mẹ","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=mẹ","startTime": "","endTime": "", "squares": [{"tone": "drop"}]},
+        {"text": "như","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=như","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+        {"text": "nước","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=nước","startTime": "","endTime": "", "squares": [{"tone": "rising"}]},
+        {"text": "trong","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=trong","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+        {"text": "nguồn","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=nguồn","startTime": "","endTime": "", "squares": [{"tone": "falling"}]},
+        {"text": "chảy","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=chảy","startTime": "","endTime": "", "squares": [{"tone": "curve"}]},
+        {"text": "ra","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=ra","startTime": "","endTime": "", "squares": [{"tone": "level"}]}
+      ],
+      "tags": [],
+      "condition": {
+        "reading": 0,
+        "speaking": 0,
+        "writing": 0,
+        "listening": 0
+      }
+    },
+    {
+      "id": "theory_06",
+      "layout": 2,
+      "medias": [
+        {
+          "imageUrl": "https://i.ibb.co/WkHsqyH/anquab1-01.png",
+          "text": "Bé đang ăn quả, hiển thị hình ảnh người nông dân đang trồng và chăm sóc cây"
+        }
+      ],
+      "tags": [],
+      "theoryFormat": "tho_luc_bat",
+      "guideWithSound": {
+        "audioURL": "",
+        "text": "Bạn hãy tách tiếng với hình vuông nhé: Mỗi hình vuông cho một tiếng\nBước 1: Đọc từng câu diễn cảm như bình thường\nBước 2: Đọc từng câu tách từng tiếng riêng theo nhịp vỗ tay\nBước 3: Vẽ hình vuông cho mỗi tiếng"
+      },
+      "textWithSounds": [
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Ăn", "text": "Ăn", "startTime": "", "endTime": "", "squares": [{"tone": "level"}]},
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=quả", "text": "quả", "startTime": "", "endTime": "", "squares": [{"tone": "level"}, {"tone": "curve"}] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=nhớ", "text": "nhớ", "startTime": "", "endTime": "", "squares": [{"tone": "level"}, {"tone": "rising"}] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=kẻ", "text": "kẻ", "startTime": "", "endTime": "", "squares": [{"tone": "level"}, {"tone": "curve"} ]},
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=trồng", "text": "trồng", "startTime": "", "endTime": "", "squares": [{"tone": "level"}, {"tone": "falling"} ] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=cây", "text": "cây", "startTime": "", "endTime": "", "squares": [{"tone": "level"}, {"tone": "level"}] },
+        { "audioURL": "", "text": "\n", "startTime": "", "endTime": "", "squares": [] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Tục ngữ", "text": "(Tục ngữ)", "startTime": "", "endTime": "", "squares": [] }
+      ],
+      "title": "Tách tiếng với mô hình",
+      "hint": "",
+      "tip": "Hiển thị theo 3 bước:\nBước 1: Đọc bài thơ diễn cảm như bình thường\nBước 2: Đọc bài thơ tách từng tiếng riêng theo nhịp vỗ tay\nBước 3: Yêu cầu vẽ hình vuông dưới mỗi tiếng",
+      "condition": {
+        "reading": 0,
+        "speaking": 0,
+        "writing": 0,
+        "listening": 0
+      }
+    },
+    {
+      "id": "theory_07",
+      "layout": 2,
+      "medias": [
+        {
+          "imageUrl": "https://i.ibb.co/k123jwr/quangdayb1-01.png",
+          "videoUrl": "",
+          "audioUrl": "",
+          "text": "Cậu bé vấp phải hòn đá vì đi nhanh đi vội"
+        }
+      ],
+      "tags": [],
+      "guideWithSound": {
+        "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Bài tập vẽ hình vuông theo nét đặt sẵn cho từng tiếng theo ba bước dưới đây: Bước 1: Đọc từng câu diễn cảm như bình thường Bước 2: Đọc từng câu tách từng tiếng riêng theo nhịp vỗ tay Bước 3: Vẽ hình vuông cho mỗi tiếng",
+        "text": "Bài tập vẽ hình vuông theo nét đặt sẵn cho từng tiếng theo ba bước dưới đây:\nBước 1: Đọc từng câu diễn cảm như bình thường\nBước 2: Đọc từng câu tách từng tiếng riêng theo nhịp vỗ tay\nBước 3: Vẽ hình vuông cho mỗi tiếng"
+      },
+      "textWithSounds": [
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Đi", "text": "Đi", "startTime": "", "endTime": "", "squares": [{"tone": "level"}] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=đâu", "text": "đâu", "startTime": "", "endTime": "", "squares": [{"tone": "level"}] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=mà", "text": "mà", "startTime": "", "endTime": "", "squares": [{"tone": "falling"}] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=vội", "text": "vội", "startTime": "", "endTime": "", "squares": [{"tone": "drop"}]},
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=mà", "text": "mà", "startTime": "", "endTime": "", "squares": [{"tone": "falling"}] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=vàng", "text": "vàng", "startTime": "", "endTime": "", "squares": [{"tone": "falling"}] },
+        { "audioURL": "", "text": "\n", "startTime": "", "endTime": "", "squares": [] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Mà", "text": "Mà", "startTime": "", "endTime": "", "squares": [{"tone": "falling"}] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=vấp", "text": "vấp", "startTime": "", "endTime": "", "squares": [{"tone": "rising"}] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=phải", "text": "phải", "startTime": "", "endTime": "", "squares": [{"tone": "curve"}] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=đá", "text": "đá", "startTime": "", "endTime": "", "squares": [{"tone": "rising"}] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=mà", "text": "mà", "startTime": "", "endTime": "", "squares": [{"tone": "falling"}] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=quàng", "text": "quàng", "startTime": "", "endTime": "", "squares": [{"tone": "falling"}] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=phải", "text": "phải", "startTime": "", "endTime": "", "squares": [{"tone": "curve"}] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=dây", "text": "dây", "startTime": "", "endTime": "", "squares":[{"tone": "level"}] },
+        { "audioURL": "", "text": "\n", "startTime": "", "endTime": "", "squares": [] },
+        { "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Ca dao", "text": "(Ca dao)", "startTime": "", "endTime": "", "squares": [] }
+      ],
+      "title": "Vẽ mô hình (hình vuông) cho tiếng",
+      "hint": "",
+      "tip": "Hiển thị theo 3 bước:\nBước 1: Đọc bài thơ diễn cảm như bình thường\nBước 2: Đọc bài thơ tách từng tiếng riêng theo nhịp vỗ tay\nBước 3: Yêu cầu vẽ hình vuông dưới mỗi tiếng",
+      "condition": {
+        "reading": 0,
+        "speaking": 0,
+        "writing": 0,
+        "listening": 0
+      }
+    },
+    {
+      "id": "theory_09",
+      "layout": 1,
+      "medias": [
+        {
+          "imageUrl": "https://i.ibb.co/ZNW2WGd/hello-01-01-01.png",
+          "videoUrl": "",
+          "audioUrl": "",
+          "text": ""
+        }
+      ],
+      "tags": [],
+      "guideWithSound": {
+        "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Bạn nhớ chào mỗi khi gặp người khác nhé! Khi chúng ta nói chuyện với nhau, lời nói của chúng ta gồm các tiếng. Bạn hãy nói rõ từng tiếng để người nghe có thể hiểu hết nội dung từng tiếng nhé! Tạm biệt bạn, hẹn gặp lại bạn ở bài sau!",
+        "text": "Bạn nhớ chào mỗi khi gặp người khác nhé!\nKhi chúng ta nói chuyện với nhau, lời nói của chúng ta gồm các tiếng.\nBạn hãy nói rõ từng tiếng để người nghe có thể hiểu hết nội dung từng tiếng nhé!\nTạm biệt bạn, hẹn gặp lại bạn ở bài sau!"
+      },
+      "textWithSounds": [
+        {"audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Bạn nhớ chào mỗi khi gặp người khác nhé!","text": "Bạn nhớ chào mỗi khi gặp người khác nhé!","startTime": "","endTime": ""},
+        {"audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Khi chúng ta nói chuyện với nhau, lời nói của chúng ta gồm các tiếng.","text": "Khi chúng ta nói chuyện với nhau, lời nói của chúng ta gồm các tiếng.","startTime": "","endTime": ""},
+        {"audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Bạn hãy nói rõ từng tiếng để người nghe có thể hiểu hết nội dung từng tiếng nhé!","text": "Bạn hãy nói rõ từng tiếng để người nghe có thể hiểu hết nội dung từng tiếng nhé!","startTime": "","endTime": ""},
+        {"audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Tạm biệt bạn, hẹn gặp lại bạn ở bài sau!","text": "Tạm biệt bạn, hẹn gặp lại bạn ở bài sau!","startTime": "","endTime": ""}
+      ],
+      "title": "Tổng kết",
+      "hint": "",
+      "tip": "",
+      "condition": {
+        "reading": 0,
+        "speaking": 0,
+        "writing": 0,
+        "listening": 0
+      }
+    }
+  ]
+}

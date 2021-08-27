@@ -1,0 +1,420 @@
+{
+  "category": [
+    {
+      "id": "cat_01",
+      "imageUrl": "https://..",
+      "title": "Học đọc",
+      "topic_id": ["topic_02"]
+    }
+  ],
+  "topics": [
+    {
+      "id": "topic_02",
+      "title": "Tiếng khác thanh",
+      "imageUrl": "https://learning.com/chucovan2.png",
+      "subTopics": [
+        { "id": "unit_01", "title": "unit 1", "type": "unit" },
+        { "id": "test_02", "title": "test 2", "type": "test" },
+        { "id": "unit_03", "title": "unit 3", "type": "unit" }
+      ],
+      "rewardIds": ["reward_02"]
+    }
+  ],
+  "units": [
+    {
+      "id": "unit_01",
+      "title": "Tiếng",
+      "rewardId": "",
+      "iconURL": "https://..",
+      "learningPoints": [
+        {
+          "type": "theory",
+          "id": "theory_01"
+        },
+        {
+          "type": "quiz",
+          "id": "quiz_02"
+        },
+        {
+          "type": "theory",
+          "id": "theory_03"
+        },
+        {
+          "type": "theory",
+          "id": "theory_04"
+        },
+        {
+          "type": "quiz",
+          "id": "quiz_05"
+        },
+        {
+          "type": "theory",
+          "id": "theory_06"
+        },
+        {
+          "type": "theory",
+          "id": "theory_07"
+        },
+        {
+          "type": "quiz",
+          "id": "quiz_08"
+        },
+        {
+          "type": "theory",
+          "id": "theory_09"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "question": "Điền vào chỗ  trống",
+      "hint": "trợ giúp",
+      "tags": ["tag_01"],
+      "type": "drag_and_drop",
+      "parts": [
+        {
+          "content": "gà",
+          "isHidden": "true",
+          "wrongAnswer": "piggy",
+          "media": {
+            "imageURL": "link ảnh con gà",
+            "videoURL": "link video",
+            "audioURL": "link audio",
+            "altText": "alt text"
+          }
+        },
+        {
+          "content": "gáy",
+          "isHidden": "false",
+          "wrongAnswer": "",
+          "media": {
+            "imageURL": "",
+            "videoURL": "",
+            "audioURL": "",
+            "altText": ""
+          }
+        },
+        {
+          "content": "ò",
+          "isHidden": "false",
+          "wrongAnswer": "",
+          "media": {
+            "imageURL": "",
+            "videoURL": "",
+            "audioURL": "",
+            "altText": ""
+          }
+        }
+      ],
+      "score": {
+        "reading": 6,
+        "speaking": 7,
+        "writing": 8,
+        "listening": 9
+      },
+      "rewardId": "reward_003"
+    },
+    {
+      "id": "quiz_002",
+      "question": "Con gì biết gáy",
+      "hint": "trợ giúp",
+      "tags": ["tag_015"],
+      "type": "multi_choice",
+      "parts": [
+        {
+          "content": "gà",
+          "corectness": "true",
+          "media": {
+            "imageURL": "link ảnh con gà",
+            "videoURL": "link video",
+            "audioURL": "link audio",
+            "altText": "alt text"
+          }
+        },
+        {
+          "content": "chó",
+          "corectness": "false",
+          "media": {
+            "imageURL": "",
+            "videoURL": "",
+            "audioURL": "",
+            "altText": ""
+          }
+        },
+        {
+          "content": "lợn",
+          "corectness": "false",
+          "media": {
+            "imageURL": "",
+            "videoURL": "",
+            "audioURL": "",
+            "altText": ""
+          }
+        }
+      ],
+      "score": {
+        "reading": 6,
+        "speaking": 7,
+        "writing": 8,
+        "listening": 9
+      },
+      "rewardId": "reward_006"
+    },
+    {
+      "id": "quiz_003",
+      "question": "Ghép đôi cho từ",
+      "hint": "trợ giúp",
+      "tags": ["tag_03", "tag_09"],
+      "type": "math_the_pair",
+      "quizParts": [
+        {
+          "content": "gà",
+          "pairContent": "gáy",
+          "media": {
+            "imageURL": "link ảnh con gà",
+            "videoURL": "link video",
+            "audioURL": "link audio",
+            "altText": "alt text"
+          }
+        },
+        {
+          "content": "chó",
+          "pairContent": "sủa",
+          "media": {
+            "imageURL": "",
+            "videoURL": "",
+            "audioURL": "",
+            "altText": ""
+          }
+        },
+        {
+          "content": "cá",
+          "pairContent": "bơi",
+          "media": {
+            "imageURL": "",
+            "videoURL": "",
+            "audioURL": "",
+            "altText": ""
+          }
+        }
+      ],
+      "score": {
+        "reading": 6,
+        "speaking": 7,
+        "writing": 8,
+        "listening": 9
+      },
+      "rewardId": "reward_005"
+    }
+  ],
+  "theories": [
+    {
+      "id": "6",
+      "medias": [
+        {
+          "imageUrl": "",
+          "videoUrl": "",
+          "audioUrl": "",
+          "altText": "Bé đang ăn quả, hiển thị hình ảnh người nông dân đang trồng và chăm sóc cây"
+        }
+      ],
+      "tags": [],
+      "guideWithSound": {
+        "audioURL": "",
+        "text": "Bạn hãy tách tiếng với hình vuông nhé: Mỗi hình vuông cho một tiếng\nBước 1: Đọc từng câu diễn cảm như bình thường\nBước 2: Đọc từng câu tách từng tiếng riêng theo nhịp vỗ tay\nBước 3: Vẽ hình vuông cho mỗi tiếng"
+      },
+      "textWithSounds": [
+        { "audioURL": "","text": "Ăn","startTime": "","endTime": ""},
+        { "audioURL": "","text": "quả","startTime": "","endTime": ""},
+        { "audioURL": "","text": "nhớ","startTime": "","endTime": ""},
+        { "audioURL": "","text": "kẻ","startTime": "","endTime": ""},
+        { "audioURL": "","text": "trồng","startTime": "","endTime": ""},
+        { "audioURL": "","text": "cây","startTime": "","endTime": ""},
+        { "audioURL": "","text": "\n","startTime": "","endTime": ""},
+        { "audioURL": "","text": "(Tục ngữ)","startTime": "","endTime": ""}
+      ],
+      "title": "Tách tiếng với mô hình",
+      "hint": "",
+      "tip": "Hiển thị theo 3 bước:\nBước 1: Đọc bài thơ diễn cảm như bình thường\nBước 2: Đọc bài thơ tách từng tiếng riêng theo nhịp vỗ tay\nBước 3: Yêu cầu vẽ hình vuông dưới mỗi tiếng",
+      "condition": {
+        "reading": 0,
+        "speaking": 0,
+        "writing": 0,
+        "listening": 0
+      }
+    },
+    {
+      "id": "7",
+      "medias": [
+        {
+          "imageUrl": "",
+          "videoUrl": "",
+          "audioUrl": "",
+          "altText": "Cậu bé vấp phải hòn đá vì đi nhanh đi vội"
+        }
+      ],
+      "tags": [],
+      "guideWithSound": {
+        "audioURL": "",
+        "text": "Bài tập vẽ hình vuông theo nét đặt sẵn cho từng tiếng theo ba bước dưới đây:\nBước 1: Đọc từng câu diễn cảm như bình thường\nBước 2: Đọc từng câu tách từng tiếng riêng theo nhịp vỗ tay\nBước 3: Vẽ hình vuông cho mỗi tiếng"
+      },
+      "textWithSounds": [
+        { "audioURL": "","text": "Đi","startTime": "","endTime": ""},
+        { "audioURL": "","text": "đâu","startTime": "","endTime": ""},
+        { "audioURL": "","text": "mà","startTime": "","endTime": ""},
+        { "audioURL": "","text": "vội","startTime": "","endTime": ""},
+        { "audioURL": "","text": "mà","startTime": "","endTime": ""},
+        { "audioURL": "","text": "vàng","startTime": "","endTime": ""},
+        { "audioURL": "","text": "\n","startTime": "","endTime": ""},
+        { "audioURL": "","text": "Mà","startTime": "","endTime": ""},
+        { "audioURL": "","text": "vấp","startTime": "","endTime": ""},
+        { "audioURL": "","text": "phải","startTime": "","endTime": ""},
+        { "audioURL": "","text": "đá","startTime": "","endTime": ""},
+        { "audioURL": "","text": "mà","startTime": "","endTime": ""},
+        { "audioURL": "","text": "quàng","startTime": "","endTime": ""},
+        { "audioURL": "","text": "phải","startTime": "","endTime": ""},
+        { "audioURL": "","text": "dây","startTime": "","endTime": ""},
+        { "audioURL": "","text": "\n","startTime": "","endTime": ""},
+        { "audioURL": "","text": "(Ca dao)","startTime": "","endTime": ""}
+      ],
+      "title": "Vẽ mô hình (hình vuông) cho tiếng",
+      "hint": "",
+      "tip": "Hiển thị theo 3 bước:\nBước 1: Đọc bài thơ diễn cảm như bình thường\nBước 2: Đọc bài thơ tách từng tiếng riêng theo nhịp vỗ tay\nBước 3: Yêu cầu vẽ hình vuông dưới mỗi tiếng",
+      "condition": {
+        "reading": 0,
+        "speaking": 0,
+        "writing": 0,
+        "listening": 0
+      }
+    },
+    {
+      "id": "9",
+      "medias": [
+        {
+          "imageUrl": "",
+          "videoUrl": "",
+          "audioUrl": "",
+          "altText": ""
+        }
+      ],
+      "tags": [],
+      "guideWithSound": {
+        "audioURL": "",
+        "text": "Bạn nhớ chào mỗi khi gặp người khác nhé!\nKhi chúng ta nói chuyện với nhau, lời nói của chúng ta gồm các tiếng.\nBạn hãy nói rõ từng tiếng để người nghe có thể hiểu hết nội dung từng tiếng nhé!\nTạm biệt bạn, hẹn gặp lại bạn ở bài sau!"
+      },
+      "textWithSounds": [
+        {
+          "audioURL": "",
+          "text": "Bạn nhớ chào mỗi khi gặp người khác nhé!",
+          "startTime": "",
+          "endTime": ""
+        },
+        {
+          "audioURL": "",
+          "text": "Khi chúng ta nói chuyện với nhau, lời nói của chúng ta gồm các tiếng.",
+          "startTime": "",
+          "endTime": ""
+        },
+        {
+          "audioURL": "",
+          "text": "Bạn hãy nói rõ từng tiếng để người nghe có thể hiểu hết nội dung từng tiếng nhé!",
+          "startTime": "",
+          "endTime": ""
+        },
+        {
+          "audioURL": "",
+          "text": "Tạm biệt bạn, hẹn gặp lại bạn ở bài sau!",
+          "startTime": "",
+          "endTime": ""
+        }
+      ],
+      "title": "Tổng kết",
+      "hint": "",
+      "tip": "",
+      "condition": {
+        "reading": 0,
+        "speaking": 0,
+        "writing": 0,
+        "listening": 0
+      }
+    }
+  ],
+  "staffs": [
+    {
+      "id": "staff_01",
+      "facebookId": "1dsđssdssd23",
+      "googleId": "gggggggggggggggg",
+      "email": "thanh@gmail.com",
+      "password": "averylonghashedpassword",
+      "fullName": "Le Xuan Thanh",
+      "role": 1,
+      "avatar": "default",
+      "bio": "hello moi nguoi",
+      "phone": "0123"
+    }
+  ],
+  "users": [
+    {
+      "id": "user_01",
+      "facebookId": "123sdsdsd",
+      "googleId": "1afasda23",
+      "email": "user@gmail.com",
+      "password": "averylonghashedpasswordtoo",
+      "fullname": "Nguyen Linh",
+      "age": "8",
+      "gender": "male",
+      "progressId": "prg_01",
+      "rewardId": ["reward_01"],
+      "score": {
+        "reading": 6,
+        "speaking": 7,
+        "writing": 8,
+        "listening": 9
+      }
+    }
+  ],
+  "result": [
+    {
+      "id": "rst_01",
+      "score": {
+        "reading": 10,
+        "speaking": 14,
+        "writing": 17,
+        "listening": 19
+      },
+      "star": "20",
+      "topicId": ["topic_01", "topic_02"],
+      "unitId": ["unit_01", "unit_02"],
+      "quizId": ["quiz_01", "quiz_02"],
+      "theoryId": ["theory_01", "theory_02"]
+    }
+  ],
+  "rewards": [
+    {
+      "id": "reward_01",
+      "type": "quiz",
+      "title": "Tieu de",
+      "description": "No description",
+      "media": {
+        "imageURL": "https://learning.com/reward_small.png",
+        "videoURL": "",
+        "audioURL": ""
+      },
+      "star": 1
+    },
+    {
+      "id": "reward_02",
+      "type": "topic",
+      "title": "This is a big prize",
+      "description": "No description",
+      "media": {
+        "imageURL": "https://learning.com/reward_big.png",
+        "videoURL": "",
+        "audioURL": ""
+      },
+      "star": 3
+    }
+  ]
+}

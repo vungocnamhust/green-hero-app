@@ -1,0 +1,50 @@
+{
+  "quizzes": [
+    {
+      "id": "quiz_02",
+      "type": "mc_quiz",
+      "question": "Đố bạn biết khi gặp người khác, ta nên làm gì?",
+      "quizParts": [
+        {
+          "correctness": true,
+          "content": {"text": "Chào hỏi trước khi nói chuyện"}
+        },
+        {
+          "correctness": false,
+          "content": {"text": "Nói chuyện luôn không cần chào"}
+        }
+      ]
+    },
+    {
+      "id": "quiz_05",
+      "type": "pair_quiz",
+      "question": "Chọn các hình tương ứng với chữ",
+      "quizParts": [
+        {
+          "pairContent": {"text": "Hình vuông"},
+          "content": {
+            "text": "ảnh hình vuông",
+            "imageUrl":
+                "https://innguyendat.com/wp-content/uploads/2019/07/mat-tren-tem-void-mau-vang-hinh-vuong.png"
+          }
+        },
+        {
+          "pairContent": {"text": "Hình tròn"},
+          "content": {
+            "text": "ảnh hình tròn",
+            "imageUrl":
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/FF0084_circle.svg/1200px-FF0084_circle.svg.png"
+          }
+        },
+        {
+          "pairContent": {"text": "Hình tam giác"},
+          "content": {
+            "text": "ảnh hình tam giác",
+            "imageUrl":
+                "https://evatoday.org/wp-content/uploads/2019/06/kisspng-triangle-shape-computer-icons-clip-art-5ad6fc611dbe65.9886048715240387531218-900x800.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

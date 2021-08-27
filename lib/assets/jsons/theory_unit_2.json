@@ -1,0 +1,344 @@
+{
+    "theories" :[
+        {
+            "id": "theory_08",
+            "title": "Chào hỏi",
+            "layout": 1,
+            "medias": [
+              {
+                "imageUrl": "https://as1.ftcdn.net/jpg/03/92/07/56/500_F_392075665_kRC8cPZpZGUUkT6UjW40D9w5x10mLdDv.jpg",
+                "text": "Chào hỏi"
+              }
+            ],
+            "textWithSounds": [
+              {"text": "Tiếng có thanh ngang có ngữ điệu ngang, không có dấu khi viết","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Tiếng có thanh ngang có ngữ điệu ngang, không có dấu khi viết","startTime": "","endTime": ""},
+              {"text": "Ví dụ: ba, ca, kem","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Ví dụ: ba, ca, kem","startTime": "","endTime": ""},
+              {"text": "Và hôm nay chúng ta sẽ cùng khám phá về 6 thanh trong tiếng Việt nhé. Sáu thanh bao gồm: Thanh ngang, huyền, sắc, hỏi, ngã, nặng","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Và hôm nay chúng ta sẽ cùng khám phá về 6 thanh trong tiếng Việt nhé. Sáu thanh bao gồm: Thanh ngang, huyền, sắc, hỏi, ngã, nặng","startTime": "","endTime": ""}
+            ],
+            "tags": [],
+            "condition": {
+              "reading": 0,
+              "speaking": 0,
+              "writing": 0,
+              "listening": 0
+            }
+          },
+          {
+            "id": "theory_09",
+            "title": "Thanh ngang",
+            "layout": 1,
+            "medias": [
+              {
+                "imageUrl": "https://as1.ftcdn.net/jpg/03/92/07/56/500_F_392075665_kRC8cPZpZGUUkT6UjW40D9w5x10mLdDv.jpg",
+                "text": "Thanh ngang"
+              }
+            ],
+            "textWithSounds": [
+              {"text": "Chào bạn","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Chào bạn","startTime": "","endTime": ""},
+              {"text": "Tiếng Việt là một ngôn ngữ có thanh điệu.","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Tiếng Việt là một ngôn ngữ có thanh điệu","startTime": "","endTime": ""}
+            ],
+            "tags": [],
+            "condition": {
+              "reading": 0,
+              "speaking": 0,
+              "writing": 0,
+              "listening": 0
+            }
+          },
+          {
+            "id": "theory_10",
+            "title": "Thanh huyền",
+            "layout": 1,
+            "medias": [
+              {
+                "imageUrl": "https://as1.ftcdn.net/jpg/03/92/07/56/500_F_392075665_kRC8cPZpZGUUkT6UjW40D9w5x10mLdDv.jpg",
+                "text": "Thanh huyền"
+              }
+            ],
+            "textWithSounds": [
+              {"text": "Tiếng có thanh huyền có ngữ điệu thấp dần xuống phía cuối tiếng, có dấu huyền '\\' khi viết","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Tiếng có thanh huyền có ngữ điệu thấp dần xuống phía cuối tiếng, có dấu huyền khi viết","startTime": "","endTime": ""}
+            ],
+            "tags": [],
+            "condition": {
+              "reading": 0,
+              "speaking": 0,
+              "writing": 0,
+              "listening": 0
+            }
+          },
+          {
+            "id": "theory_11",
+            "title": "Thanh huyền và thanh ngang",
+            "layout": 1,
+            "medias": [
+              {
+                "imageUrl": "https://as1.ftcdn.net/jpg/03/92/07/56/500_F_392075665_kRC8cPZpZGUUkT6UjW40D9w5x10mLdDv.jpg",
+                "text": "Thanh huyền và thanh ngang"
+              }
+            ],
+            "textWithSounds": [
+              {"text": "Mô hình cho thanh ngang và thanh huyền: Tiếng có thanh huyền bao gồm thanh ngang và thêm dấu huyền '\\'","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Tiếng có thanh huyền có ngữ điệu thấp dần xuống phía cuối tiếng, có dấu huyền khi viết","startTime": "","endTime": ""},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "Ví dụ: ","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Ví dụ","startTime": "","endTime": ""},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "ba bà:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bà","startTime": "","endTime": ""},
+              {"text": "ba","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bà","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "huyền","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bà","startTime": "","endTime": ""},
+              {"text": "bà","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bà","startTime": "","endTime": "", "squares": [{"tone": "falling"}]},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "ca cà:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bà","startTime": "","endTime": ""},
+              {"text": "ca","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bà","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "huyền","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bà","startTime": "","endTime": ""},
+              {"text": "cà","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bà","startTime": "","endTime": "", "squares": [{"tone": "falling"}]},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "đan đàn:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bà","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "đan","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bà","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "huyền","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bà","startTime": "","endTime": ""},
+              {"text": "đàn","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bà","startTime": "","endTime": "", "squares": [{"tone": "falling"}]}
+            ],
+            "tags": [],
+            "condition": {
+              "reading": 0,
+              "speaking": 0,
+              "writing": 0,
+              "listening": 0
+            }
+          },
+          {
+            "id": "theory_12",
+            "title": "Thanh sắc",
+            "layout": 1,
+            "medias": [
+              {
+                "imageUrl": "https://as1.ftcdn.net/jpg/03/92/07/56/500_F_392075665_kRC8cPZpZGUUkT6UjW40D9w5x10mLdDv.jpg",
+                "text": "Thanh sắc"
+              }
+            ],
+            "textWithSounds": [
+              {"text": "Tiếng có thanh sắc có ngữ điệu cao dần lên phía cuối tiếng, có dấu sắc '/' khi viết","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Tiếng có thanh sắc có ngữ điệu cao dần lên phía cuối tiếng, có dấu sắc khi viết", "startTime": "","endTime": ""}
+            ],
+            "tags": [],
+            "condition": {
+              "reading": 0,
+              "speaking": 0,
+              "writing": 0,
+              "listening": 0
+            }
+          },
+          {
+            "id": "theory_12",
+            "title": "Thanh sắc và thanh ngang",
+            "layout": 2,
+            "medias": [
+              {
+                "imageUrl": "https://as1.ftcdn.net/jpg/03/92/07/56/500_F_392075665_kRC8cPZpZGUUkT6UjW40D9w5x10mLdDv.jpg",
+                "text": "Thanh sắc và thanh ngang"
+              }
+            ],
+            "textWithSounds": [
+              {"text": "Mô hình cho thanh ngang và thanh sắc: Tiếng có thanh sắc bao gồm thanh ngang và thêm dấu sắc '/'","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Mô hình cho thanh ngang và thanh sắc: Tiếng có thanh sắc bao gồm thanh ngang và thêm dấu sắc khi viết","startTime": "","endTime": ""},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "Ví dụ: ","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Ví dụ","startTime": "","endTime": ""},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "ca cá:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=ca cá","startTime": "","endTime": ""},
+              {"text": "ca","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=ca","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "sắc","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=sắc","startTime": "","endTime": "", "squares": []},
+              {"text": "cá","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=cá","startTime": "","endTime": "", "squares": [{"tone": "rising"}]},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "la lá:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=la lá","startTime": "","endTime": ""},
+              {"text": "la","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=la","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "sắc","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=sắc","startTime": "","endTime": "", "squares": []},
+              {"text": "lá","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=lá","startTime": "","endTime": "", "squares": [{"tone": "rising"}]},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "be bé:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=be bé","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "be","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=be","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "sắc","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=sắc","startTime": "","endTime": "", "squares": []},
+              {"text": "bé","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bé","startTime": "","endTime": "", "squares": [{"tone": "rising"}]}
+            ],
+            "tags": [],
+            "condition": {
+              "reading": 0,
+              "speaking": 0,
+              "writing": 0,
+              "listening": 0
+            }
+          },
+          {
+            "id": "theory_13",
+            "title": "Thanh hỏi",
+            "layout": 1,
+            "medias": [
+              {
+                "imageUrl": "https://as1.ftcdn.net/jpg/03/92/07/56/500_F_392075665_kRC8cPZpZGUUkT6UjW40D9w5x10mLdDv.jpg",
+                "text": "Chào hỏi"
+              }
+            ],
+            "textWithSounds": [
+              {"text": "Tiếng có thanh hỏi có ngữ điệu ..... , có dấu hỏi '?' khi viết", "audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Tiếng có thanh hỏi có ngữ điệu ..... , có dấu hỏi khi viết", "startTime": "","endTime": ""}
+            ],
+            "tags": [],
+            "condition": {
+              "reading": 0,
+              "speaking": 0,
+              "writing": 0,
+              "listening": 0
+            }
+          },
+          {
+            "id": "theory_13",
+            "title": "Thanh hỏi và thanh ngang",
+            "layout": 2,
+            "medias": [
+              {
+                "imageUrl": "https://as1.ftcdn.net/jpg/03/92/07/56/500_F_392075665_kRC8cPZpZGUUkT6UjW40D9w5x10mLdDv.jpg",
+                "text": "Chào hỏi"
+              }
+            ],
+            "textWithSounds": [
+              {"text": "Mô hình cho thanh ngang và thanh hỏi: Tiếng có thanh hỏi bao gồm thanh ngang và thêm dấu hỏi '?'","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Mô hình cho thanh ngang và thanh hỏi: Tiếng có thanh hỏi bao gồm thanh ngang và thêm dấu hỏi","startTime": "","endTime": ""},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "Ví dụ: ","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Ví dụ","startTime": "","endTime": ""},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "nho nhỏ:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=ca cá","startTime": "","endTime": ""},
+              {"text": "nho","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=ca","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "hỏi","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=sắc","startTime": "","endTime": "", "squares": []},
+              {"text": "nhỏ","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=cá","startTime": "","endTime": "", "squares": [{"tone": "rising"}]},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "anh ảnh:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=la lá","startTime": "","endTime": ""},
+              {"text": "anh","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=la","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "hỏi","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=sắc","startTime": "","endTime": "", "squares": []},
+              {"text": "ảnh","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=lá","startTime": "","endTime": "", "squares": [{"tone": "rising"}]},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "be bẻ:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=be bé","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "be","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=be","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "hỏi","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=sắc","startTime": "","endTime": "", "squares": []},
+              {"text": "bẻ","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=bé","startTime": "","endTime": "", "squares": [{"tone": "rising"}]}
+            ],
+            "tags": [],
+            "condition": {
+              "reading": 0,
+              "speaking": 0,
+              "writing": 0,
+              "listening": 0
+            }
+          },
+          {
+            "id": "theory_13",
+            "title": "Thanh ngã",
+            "layout": 1,
+            "medias": [
+              {
+                "imageUrl": "https://as1.ftcdn.net/jpg/03/92/07/56/500_F_392075665_kRC8cPZpZGUUkT6UjW40D9w5x10mLdDv.jpg",
+                "text": "Thanh ngã"
+              }
+            ],
+            "textWithSounds": [
+              {"text": "Tiếng có thanh ngã có ngữ điệu cao dần xuống phía cuối tiếng, có dấu ngã '~' khi viết.","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Tiếng có thanh ngã có ngữ điệu cao dần xuống phía cuối tiếng, có dấu ngã khi viết","startTime": "","endTime": ""}
+            ],
+            "tags": [],
+            "condition": {
+              "reading": 0,
+              "speaking": 0,
+              "writing": 0,
+              "listening": 0
+            }
+          },
+          {
+            "id": "theory_14",
+            "title": "Thanh ngã và thanh ngang",
+            "layout": 2,
+            "medias": [
+              {
+                "imageUrl": "https://as1.ftcdn.net/jpg/03/92/07/56/500_F_392075665_kRC8cPZpZGUUkT6UjW40D9w5x10mLdDv.jpg",
+                "text": "Thanh ngã và thanh ngang"
+              }
+            ],
+            "textWithSounds": [
+              {"text": "Mô hình cho thanh ngã và thanh ngang: Tiếng có thanh ngã bao gồm thanh ngang và thêm dấu ngã '~'","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Mô hình cho thanh ngang và thanh hỏi: Tiếng có thanh hỏi bao gồm thanh ngang và thêm dấu hỏi","startTime": "","endTime": ""},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "Ví dụ: ","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Ví dụ","startTime": "","endTime": ""},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "lê lễ:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=lê lễ","startTime": "","endTime": ""},
+              {"text": "lê","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=lê","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "ngã","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=ngã","startTime": "","endTime": "", "squares": []},
+              {"text": "lễ","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=lễ","startTime": "","endTime": "", "squares": [{"tone": "broken"}]},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "cai cãi:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=cai cãi","startTime": "","endTime": ""},
+              {"text": "cai","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=cai","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "ngã","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=ngã","startTime": "","endTime": "", "squares": []},
+              {"text": "cãi","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=cãi","startTime": "","endTime": "", "squares": [{"tone": "broken"}]},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "lao lão:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=lao lão","startTime": "","endTime": ""},
+              {"text": "lao","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=lao","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "ngã","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=ngã","startTime": "","endTime": "", "squares": []},
+              {"text": "lão","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=lão","startTime": "","endTime": "", "squares": [{"tone": "broken"}]}
+            ],
+            "tags": [],
+            "condition": {
+              "reading": 0,
+              "speaking": 0,
+              "writing": 0,
+              "listening": 0
+            }
+          },
+          {
+            "id": "theory_15",
+            "title": "Thanh nặng",
+            "layout": 1,
+            "medias": [
+              {
+                "imageUrl": "https://as1.ftcdn.net/jpg/03/92/07/56/500_F_392075665_kRC8cPZpZGUUkT6UjW40D9w5x10mLdDv.jpg",
+                "text": "Thanh nặng"
+              }
+            ],
+            "textWithSounds": [
+              {"text": "Tiếng có thanh nặng có ngữ điệu thấp dần xuống phía cuối tiếng, có dấu nặng '.' khi viết.","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Tiếng có thanh nặng có ngữ điệu thấp dần xuống phía cuối tiếng, có dấu nặng khi viết","startTime": "","endTime": ""}
+            ],
+            "tags": [],
+            "condition": {
+              "reading": 0,
+              "speaking": 0,
+              "writing": 0,
+              "listening": 0
+            }
+          },
+          {
+            "id": "theory_16",
+            "title": "Thanh nặng và thanh ngang",
+            "layout": 2,
+            "medias": [
+              {
+                "imageUrl": "https://as1.ftcdn.net/jpg/03/92/07/56/500_F_392075665_kRC8cPZpZGUUkT6UjW40D9w5x10mLdDv.jpg",
+                "text": "Thanh nặng và thanh ngang"
+              }
+            ],
+            "textWithSounds": [
+              {"text": "Mô hình cho thanh nặng và thanh ngang: Tiếng có thanh nặng bao gồm thanh ngang và thêm dấu nặng '.'","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Mô hình cho thanh nặng và thanh ngang: Tiếng có thanh nặng bao gồm thanh ngang và thêm dấu nặng","startTime": "","endTime": ""},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "Ví dụ: ","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=Ví dụ","startTime": "","endTime": ""},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "ban bạn:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=ban bạn","startTime": "","endTime": ""},
+              {"text": "ban","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=lê","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "nặng","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=ngã","startTime": "","endTime": "", "squares": []},
+              {"text": "bạn","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=lễ","startTime": "","endTime": "", "squares": [{"tone": "drop"}]},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "co cọ:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=co cọ","startTime": "","endTime": ""},
+              {"text": "co","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=cai","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "nặng","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=ngã","startTime": "","endTime": "", "squares": []},
+              {"text": "cọ","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=cãi","startTime": "","endTime": "", "squares": [{"tone": "drop"}]},
+              {"text": "\n","audioURL": "","startTime": "","endTime": ""},
+              {"text": "chi chị:","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=chi chị","startTime": "","endTime": ""},
+              {"text": "chi","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=lao","startTime": "","endTime": "", "squares": [{"tone": "level"}]},
+              {"text": "nặng","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=ngã","startTime": "","endTime": "", "squares": []},
+              {"text": "chị","audioURL": "http://43.239.223.46:8080/api/tts?app_id=5fa36282358ba7fc3990bd97&key=3086f3959fe7161cea2fca838d976a57&voice=hn_female_maiphuong_news_48k-d&rate=1&time=1610640936407&user_id=50178&service_type=1&input_text=lão","startTime": "","endTime": "", "squares": [{"tone": "drop"}]}
+            ],
+            "tags": [],
+            "condition": {
+              "reading": 0,
+              "speaking": 0,
+              "writing": 0,
+              "listening": 0
+            }
+          }
+    ]
+}

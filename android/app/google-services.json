@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "221027908586",
+    "firebase_url": "https://learningvietnamese-71492.firebaseio.com",
+    "project_id": "learningvietnamese-71492",
+    "storage_bucket": "learningvietnamese-71492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221027908586:android:0093cee8dc3a0957a55093",
+        "android_client_info": {
+          "package_name": "online.greenhero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221027908586-u9pavjmn5kvhfn8n0i26jeh6kc1pnslk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkX3ER1hSlq_tvJ_e90UD_RQT8ZulXmCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221027908586-u9pavjmn5kvhfn8n0i26jeh6kc1pnslk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221027908586-6ktjb3m8hckkc2jnqbf5qonda2p1bbrq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "online.greenhero"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221027908586:android:9e1d8f29b28a2e36a55093",
+        "android_client_info": {
+          "package_name": "online.greenhero.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221027908586-u9pavjmn5kvhfn8n0i26jeh6kc1pnslk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkX3ER1hSlq_tvJ_e90UD_RQT8ZulXmCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221027908586-u9pavjmn5kvhfn8n0i26jeh6kc1pnslk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221027908586-6ktjb3m8hckkc2jnqbf5qonda2p1bbrq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "online.greenhero"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

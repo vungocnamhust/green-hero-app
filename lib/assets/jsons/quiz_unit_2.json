@@ -1,0 +1,234 @@
+{
+  "quizzes": [
+    {
+      "id": "quiz_03",
+      "type": "mc_quiz",
+      "question": "Bạn hãy lựa chọn các tiếng có thanh ngang:",
+      "quizParts": [
+        {
+          "correctness": false,
+          "content": "bà"
+        },
+        {
+          "correctness": true,
+          "content": "cam"
+        },
+        {
+          "correctness": false,
+          "content": "cá"
+        },
+        {
+          "correctness": false,
+          "content": "giỏ"
+        },
+        {
+          "correctness": true,
+          "content": "tay"
+        }
+      ]
+    },
+    {
+      "id": "quiz_04",
+      "type": "mc_quiz",
+      "question": "Bạn hãy lựa chọn các tiếng có thanh huyền:",
+      "quizParts": [
+        {
+          "correctness": true,
+          "content": "vòng"
+        },
+        {
+          "correctness": false,
+          "content": "tung"
+        },
+        {
+          "correctness": false,
+          "content": "cá"
+        },
+        {
+          "correctness": false,
+          "content": "giỏ"
+        },
+        {
+          "correctness": false,
+          "content": "cõng"
+        },
+        {
+          "correctness": true,
+          "content": "bài"
+        }
+      ]
+    },
+    {
+      "id": "quiz_06",
+      "type": "mc_quiz",
+      "question": "Bạn hãy lựa chọn các tiếng có thanh sắc:",
+      "quizParts": [
+        {
+          "correctness": false,
+          "content": "cam"
+        },
+        {
+          "correctness": true,
+          "content": "cá"
+        },
+        {
+          "correctness": true,
+          "content": "kéo"
+        },
+        {
+          "correctness": false,
+          "content": "thang"
+        },
+        {
+          "correctness": false,
+          "content": "bay"
+        },
+        {
+          "correctness": false,
+          "content": "kinh"
+        }
+      ]
+    },
+    {
+      "id": "quiz_07",
+      "type": "mc_quiz",
+      "question": "Bạn hãy lựa chọn các tiếng có thanh hỏi:",
+      "quizParts": [
+        {
+          "correctness": true,
+          "content": "cảm"
+        },
+        {
+          "correctness": false,
+          "content": "kéo"
+        },
+        {
+          "correctness": false,
+          "content": "cánh"
+        },
+        {
+          "correctness": true,
+          "content": "cảng"
+        },
+        {
+          "correctness": true,
+          "content": "tỏi"
+        },
+        {
+          "correctness": false,
+          "content": "hoa"
+        }
+      ]
+    },
+    {
+      "id": "quiz_08",
+      "type": "mc_quiz",
+      "question": "Bạn hãy lựa chọn các tiếng có thanh ngã:",
+      "quizParts": [
+        {
+          "correctness": true,
+          "content": "ông lão"
+        },
+        {
+          "correctness": false,
+          "content": "tung"
+        },
+        {
+          "correctness": true,
+          "content": "chiến sĩ"
+        },
+        {
+          "correctness": false,
+          "content": "giỏ hàng"
+        },
+        {
+          "correctness": true,
+          "content": "cõng"
+        },
+        {
+          "correctness": false,
+          "content": "bài"
+        }
+      ]
+    },
+    {
+      "id": "quiz_09",
+      "type": "mc_quiz",
+      "question": "Bạn hãy lựa chọn các tiếng có thanh nặng:",
+      "quizParts": [
+        {
+          "correctness": true,
+          "content": "cây cọ"
+        },
+        {
+          "correctness": true,
+          "content": "đọc bài"
+        },
+        {
+          "correctness": false,
+          "content": "chiến sĩ"
+        },
+        {
+          "correctness": false,
+          "content": "giỏ hàng"
+        },
+        {
+          "correctness": true,
+          "content": "bạn bè"
+        },
+        {
+          "correctness": true,
+          "content": "chị gái"
+        }
+      ]
+    },
+    {
+      "id": "quiz_010",
+      "type": "blank_quiz",
+      "question": "Kéo đáp án vào chỗ trống:",
+      "quizParts": [
+        {
+          "content": { "text": "Ò " },
+          "wrongAnswer": { "text": "" },
+          "isHidden": false
+        },
+        {
+          "content": { "text": "Ó " },
+          "wrongAnswer": { "text": "" },
+          "isHidden": false
+        },
+        {
+          "content": { "text": "O " },
+          "wrongAnswer": { "text": "" },
+          "isHidden": false
+        },
+        {
+          "content": { "text": "con " },
+          "wrongAnswer": { "text": "" },
+          "isHidden": false
+        },
+        {
+          "content": {
+            "text": "gà ",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3EcSw0iuDUn-SYWmRpRAolL5VPxFsbw237w&usqp=CAU"
+          },
+          "wrongAnswer": {
+            "text": "chó",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_WSuTPPJodlLasN67W-uCBC1OlgFORd6yg&usqp=CAU"
+          },
+          "isHidden": true
+        },
+        {
+          "content": { "text": "biết " },
+          "wrongAnswer": { "text": "không" },
+          "isHidden": true
+        },
+        {
+          "content": { "text": "gáy " },
+          "wrongAnswer": { "text": "Ò " },
+          "isHidden": false
+        }
+      ]
+    }
+  ]
+}

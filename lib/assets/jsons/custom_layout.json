@@ -1,0 +1,683 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "media_object": {
+                                "audio_url": "https://example.com",
+                                "image_url": "https://www.pinclipart.com/picdir/big/176-1767792_student-learning-writing-student-writing-clipart-png-transparent.png",
+                                "realised_acoust_params": [],
+                                "text": "Xin chào bạn",
+                                "text_format": "doan_van_thuong",
+                                "type": "image",
+                                "video_url": "https://example.com"
+                            },
+                            "ratio": 0.3
+                        },
+                        {
+                            "media_object": {
+                                "audio_url": "https://example.com",
+                                "image_url": "https://example.com",
+                                "realised_acoust_params": [],
+                                "text": "Xin chào bạn",
+                                "text_format": "doan_van_thuong",
+                                "type": "image",
+                                "video_url": "https://example.com"
+                            },
+                            "ratio": 0.3
+                        },
+                        {
+                            "media_object": {
+                                "audio_url": "https://example.com",
+                                "image_url": "https://example.com",
+                                "realised_acoust_params": [],
+                                "text": "Xin chào bạn",
+                                "text_format": "doan_van_thuong",
+                                "type": "image",
+                                "video_url": "https://example.com"
+                            },
+                            "ratio": 0.4
+                        }
+                    ],
+                    "layout": "vertical",
+                    "ratio": 0.3
+                },
+                {
+                    "media_object": {
+                        "audio_url": "https://example.com",
+                        "image_url": "https://example.com",
+                        "realised_acoust_params": [],
+                        "text": "Xin chào bạn",
+                        "text_format": "doan_van_thuong",
+                        "type": "text",
+                        "video_url": "https://example.com"
+                    },
+                    "ratio": 0.4
+                },
+                {
+                    "children": [
+                        {
+                            "media_object": {
+                                "audio_url": "https://example.com",
+                                "image_url": "https://example.com",
+                                "realised_acoust_params": [],
+                                "text": "Xin chào bạn",
+                                "text_format": "doan_van_thuong",
+                                "type": "image",
+                                "video_url": "https://example.com"
+                            },
+                            "ratio": 0.5
+                        },
+                        {
+                            "media_object": {
+                                "audio_url": "https://example.com",
+                                "image_url": "https://example.com",
+                                "realised_acoust_params": [],
+                                "text": "Xin chào bạn",
+                                "text_format": "doan_van_thuong",
+                                "type": "video",
+                                "video_url": "https://example.com"
+                            },
+                            "ratio": 0.5
+                        }
+                    ],
+                    "layout": "vertical",
+                    "ratio": 0.3
+                }
+            ],
+            "layout": "horizontal",
+            "ratio": 0.75
+        },
+        {
+            "media_object": {
+                "audio_url": "https://example.com",
+                "image_url": "https://example.com",
+                "realised_acoust_params": [],
+                "text": "Xin chào bạn",
+                "text_format": "doan_van_thuong",
+                "type": "square",
+                "square_object": {
+                    "type": "word_in_sentence",
+                    "full_text": "Xin chào bạn",
+                    "squares": [
+                        {
+                            "text": "Xin",
+                            "text_position": "bottom",
+                            "tone": null,
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "chào",
+                            "text_position": "bottom",
+                            "tone": null,
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "bạn",
+                            "text_position": "bottom",
+                            "tone": null,
+                            "visibility": "show"
+                        }
+                    ]
+                },
+                "video_url": "https://example.com"
+            },
+            "ratio": 0.25
+        }
+    ],
+    "layout": "vertical",
+    "ratio": 1
+}
+
+{
+    "ratio": 1,
+    "layout": "vertical",
+    "children": [
+        {
+            "ratio": 0.4,
+            "layout": "horizontal",
+            "children": [
+                {
+                    "ratio": 0.167,
+                    "media_object": {
+                        "audio_url": "https://example.com",
+                        "image_url": "https://example.com",
+                        "realised_acoust_params": [],
+                        "text": "Xin chào bạn",
+                        "text_format": "doan_van_thuong",
+                        "type": "square",
+                        "square_object": {
+                            "type": "tone_of_word",
+                            "full_text": "ca",
+                            "squares": [
+                                {
+                                    "text": "ca",
+                                    "text_position": "top",
+                                    "tone": "level",
+                                    "visibility": "show"
+                                }
+                            ]
+                        },
+                        "video_url": "https://example.com"
+                    }
+                },
+                {
+                    "ratio": 0.167,
+                    "media_object": {
+                        "audio_url": "https://example.com",
+                        "image_url": "https://example.com",
+                        "realised_acoust_params": [],
+                        "text": "Xin chào bạn",
+                        "text_format": "doan_van_thuong",
+                        "type": "square",
+                        "square_object": {
+                            "type": "tone_of_word",
+                            "full_text": "cà",
+                            "squares": [
+                                {
+                                    "text": "cà",
+                                    "text_position": "top",
+                                    "tone": "falling",
+                                    "visibility": "show"
+                                }
+                            ]
+                        },
+                        "video_url": "https://example.com"
+                    }
+                },
+                {
+                    "ratio": 0.167,
+                    "media_object": {
+                        "audio_url": "https://example.com",
+                        "image_url": "https://example.com",
+                        "realised_acoust_params": [],
+                        "text": "Xin chào bạn",
+                        "text_format": "doan_van_thuong",
+                        "type": "square",
+                        "square_object": {
+                            "type": "tone_of_word",
+                            "full_text": "cá",
+                            "squares": [
+                                {
+                                    "text": "cá",
+                                    "text_position": "top",
+                                    "tone": "rising",
+                                    "visibility": "show"
+                                }
+                            ]
+                        },
+                        "video_url": "https://example.com"
+                    }
+                },
+                {
+                    "ratio": 0.167,
+                    "media_object": {
+                        "audio_url": "https://example.com",
+                        "image_url": "https://example.com",
+                        "realised_acoust_params": [],
+                        "text": "Xin chào bạn",
+                        "text_format": "doan_van_thuong",
+                        "type": "square",
+                        "square_object": {
+                            "type": "tone_of_word",
+                            "full_text": "cả",
+                            "squares": [
+                                {
+                                    "text": "cả",
+                                    "text_position": "top",
+                                    "tone": "curve",
+                                    "visibility": "show"
+                                }
+                            ]
+                        },
+                        "video_url": "https://example.com"
+                    }
+                },
+                {
+                    "ratio": 0.167,
+                    "media_object": {
+                        "audio_url": "https://example.com",
+                        "image_url": "https://example.com",
+                        "realised_acoust_params": [],
+                        "text": "Xin chào bạn",
+                        "text_format": "doan_van_thuong",
+                        "type": "square",
+                        "square_object": {
+                            "type": "tone_of_word",
+                            "full_text": "cã",
+                            "squares": [
+                                {
+                                    "text": "cã",
+                                    "text_position": "top",
+                                    "tone": "broken",
+                                    "visibility": "show"
+                                }
+                            ]
+                        },
+                        "video_url": "https://example.com"
+                    }
+                },
+                {
+                    "ratio": 0.167,
+                    "media_object": {
+                        "audio_url": "https://example.com",
+                        "image_url": "https://example.com",
+                        "realised_acoust_params": [],
+                        "text": "Xin chào bạn",
+                        "text_format": "doan_van_thuong",
+                        "type": "square",
+                        "square_object": {
+                            "type": "tone_of_word",
+                            "full_text": "cạ",
+                            "squares": [
+                                {
+                                    "text": "cạ",
+                                    "text_position": "top",
+                                    "tone": "drop",
+                                    "visibility": "show"
+                                }
+                            ]
+                        },
+                        "video_url": "https://example.com"
+                    }
+                }
+            ]
+        },
+        {
+            "ratio": 0.3,
+            "media_object": {
+                "audio_url": "https://example.com",
+                "image_url": "https://example.com",
+                "realised_acoust_params": [],
+                "text": "Xin chào bạn",
+                "text_format": "doan_van_thuong",
+                "type": "square",
+                "square_object": {
+                    "type": "word_in_sentence",
+                    "full_text": "Đây là ví dụ về ô vuông dạng tiếng trong câu",
+                    "squares": [
+                        {
+                            "text": "Đây",
+                            "text_position": "top",
+                            "tone": null,
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "là",
+                            "text_position": "top",
+                            "tone": null,
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "ví",
+                            "text_position": "top",
+                            "tone": null,
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "dụ",
+                            "text_position": "top",
+                            "tone": null,
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "về",
+                            "text_position": "top",
+                            "tone": null,
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "ô",
+                            "text_position": "top",
+                            "tone": null,
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "vuông",
+                            "text_position": "top",
+                            "tone": null,
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "dạng",
+                            "text_position": "top",
+                            "tone": null,
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "tiếng",
+                            "text_position": "top",
+                            "tone": null,
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "trong",
+                            "text_position": "top",
+                            "tone": null,
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "câu",
+                            "text_position": "top",
+                            "tone": null,
+                            "visibility": "show"
+                        }
+                    ]
+                },
+                "video_url": "https://example.com"
+            }
+        },
+        {
+            "ratio": 0.3,
+            "media_object": {
+                "audio_url": "https://example.com",
+                "image_url": "https://example.com",
+                "realised_acoust_params": [],
+                "text": "Xin chào bạn",
+                "text_format": "doan_van_thuong",
+                "type": "square",
+                "square_object": {
+                    "type": "word_in_sentence",
+                    "full_text": "Đây là ví dụ về ô vuông dạng tiếng trong câu có thêm dấu",
+                    "squares": [
+                        {
+                            "text": "Đây",
+                            "text_position": "top",
+                            "tone": "level",
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "là",
+                            "text_position": "top",
+                            "tone": "falling",
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "ví",
+                            "text_position": "top",
+                            "tone": "rising",
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "dụ",
+                            "text_position": "top",
+                            "tone": "drop",
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "về",
+                            "text_position": "top",
+                            "tone": "falling",
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "ô",
+                            "text_position": "top",
+                            "tone": "level",
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "vuông",
+                            "text_position": "top",
+                            "tone": "level",
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "dạng",
+                            "text_position": "top",
+                            "tone": "drop",
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "tiếng",
+                            "text_position": "top",
+                            "tone": "rising",
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "trong",
+                            "text_position": "top",
+                            "tone": "level",
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "câu",
+                            "text_position": "top",
+                            "tone": "level",
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "có",
+                            "text_position": "top",
+                            "tone": "rising",
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "thêm",
+                            "text_position": "top",
+                            "tone": "level",
+                            "visibility": "show"
+                        },
+                        {
+                            "text": "dấu",
+                            "text_position": "top",
+                            "tone": "rising",
+                            "visibility": "show"
+                        }
+                    ]
+                },
+                "video_url": "https://example.com"
+            }
+        }
+    ]
+}
+
+{
+    "ratio": 1,
+    "layout": "vertical",
+    "children": [
+        {
+            "ratio": 0.5,
+            "layout": "horizontal",
+            "children": [
+                {
+                    "ratio": 0.5,
+                    "media_object": {
+                        "audio_url": "https://example.com",
+                        "image_url": "https://example.com",
+                        "realised_acoust_params": [],
+                        "text": "Xin chào bạn",
+                        "text_format": "doan_van_thuong",
+                        "type": "square",
+                        "square_object": {
+                            "type": "elements_in_word",
+                            "full_text": "loan",
+                            "squares": [
+                                {
+                                    "text": "l",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                },
+                                {
+                                    "text": "o",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                },
+                                {
+                                    "text": "a",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                },
+                                {
+                                    "text": "n",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                }
+                            ]
+                        },
+                        "video_url": "https://example.com"
+                    }
+                },
+                {
+                    "ratio": 0.5,
+                    "media_object": {
+                        "audio_url": "https://example.com",
+                        "image_url": "https://example.com",
+                        "realised_acoust_params": [],
+                        "text": "Xin chào bạn",
+                        "text_format": "doan_van_thuong",
+                        "type": "square",
+                        "square_object": {
+                            "type": "elements_in_word",
+                            "full_text": "loan",
+                            "squares": [
+                                {
+                                    "text": "l",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                },
+                                {
+                                    "text": "o",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                },
+                                {
+                                    "text": "a",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                },
+                                {
+                                    "text": "n",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                }
+                            ]
+                        },
+                        "video_url": "https://example.com"
+                    }
+                }
+            ]
+        },
+        {
+            "ratio": 0.5,
+            "layout": "horizontal",
+            "children": [
+                {
+                    "ratio": 0.5,
+                    "media_object": {
+                        "audio_url": "https://example.com",
+                        "image_url": "https://example.com",
+                        "realised_acoust_params": [],
+                        "text": "Xin chào bạn",
+                        "text_format": "doan_van_thuong",
+                        "type": "square",
+                        "square_object": {
+                            "type": "elements_in_word",
+                            "full_text": "loan",
+                            "squares": [
+                                {
+                                    "text": "l",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                },
+                                {
+                                    "text": "o",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                },
+                                {
+                                    "text": "a",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                },
+                                {
+                                    "text": "n",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                }
+                            ]
+                        },
+                        "video_url": "https://example.com"
+                    }
+                },
+                {
+                    "ratio": 0.5,
+                    "media_object": {
+                        "audio_url": "https://example.com",
+                        "image_url": "https://example.com",
+                        "realised_acoust_params": [],
+                        "text": "Xin chào bạn",
+                        "text_format": "doan_van_thuong",
+                        "type": "square",
+                        "square_object": {
+                            "type": "elements_in_word",
+                            "full_text": "loan",
+                            "squares": [
+                                {
+                                    "text": "l",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                },
+                                {
+                                    "text": "o",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                },
+                                {
+                                    "text": "a",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                },
+                                {
+                                    "text": "n",
+                                    "text_position": "inside",
+                                    "tone": null,
+                                    "visibility": "show"
+                                }
+                            ]
+                        },
+                        "video_url": "https://example.com"
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+{
+    "ratio": 1,
+    "layout": "horizontal",
+    "children": [
+        {
+            "ratio": 0.5,
+            "media_object": {
+                "type": "video",
+                "video_url": "https://assets.mixkit.co/videos/preview/mixkit-girl-rotating-an-earth-globe-at-school-16993-large.mp4"
+            }
+        },
+        {
+            "ratio": 0.5,
+            "media_object": {
+                "type": "image",
+                "image_url": "https://res.cloudinary.com/twenty20/private_images/t_standard-fit/v1521838878/photosp/f99e5770-6148-42c1-bf3e-392d826d8372/f99e5770-6148-42c1-bf3e-392d826d8372.jpg"
+            }
+        }
+    ]
+}
