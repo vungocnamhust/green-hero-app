@@ -1,8 +1,10 @@
 # GreenHero application
 
 GreenHero system contains
-- GreenHero mobile app:
-- CMS system: receiving request/warning from citizen/user through mobile application, then public administration employees will approve them if they are valid.
+- Mobile app: The citizens chat on zalo's official account for communicating with the government. If they get troubles with some wastewater, they can absolutely notify government committees through zalo chat. 
+- Backend & AI service: Request information will be sent to CBM backend for filtering spams, removing all incorrect information which is not involved in wastewater by AI. 
+- CMS service: The correct request information will be shown on the CBM CMS website. After policy employees will filter information again by their eyes, they can press the button for sending appropriate data to the appropriate government departments.
+
 
 
 # Document
