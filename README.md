@@ -6,6 +6,10 @@ GreenHero system contains
 - CMS service: The correct request information will be shown on the CBM CMS website. After policy employees will filter information again by their eyes, they can press the button for sending appropriate data to the appropriate government departments.
 
 
+# Demo video
+https://user-images.githubusercontent.com/49335373/199668026-f7639385-6e3b-4f8f-99a2-e0ed5cd808d7.mp4
+
+
 
 # Document
 - [GreenHero Proposal:] (https://docs.google.com/document/d/1IMA16qX-xp4ANj6A80MJ9vzXkTN0pVCq_s2z9zynhsg/edit?usp=sharing)
